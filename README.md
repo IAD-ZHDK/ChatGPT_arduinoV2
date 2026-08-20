@@ -95,7 +95,7 @@ npm install
 
 ### 3. Create and activate a Python virtual environment and install packages
 
-This project requires Python 3.13.3 (please do not use a newer Python version, until onyxruntime is support). The instructions below assume the Python 3.13 executable is available as `python3.13`.
+This project requires Python 3.13.3 (please do not use a newer Python version, until onyxruntime is supported). The instructions below assume the Python 3.13 executable is available as `python3.13`.
 
 ```bash
 # create venv with Python 3.13.3
@@ -174,6 +174,7 @@ or for development:
 chmod +x run.sh
 ./run.sh
 ```
+
 
 ### Debuging with terminal 
 
